@@ -1,5 +1,4 @@
-# CanCode-Python-Data-Analytics-Final-Project
-Final Project for 2022 Python and Data Analytics Course from CanCode.org
+# Final Project for 2022 Python and Data Analytics Course from CanCode.org
 
 For this project, my goal for analyzing the data from VGChart is to get a better
 understanding of what’s popular, what has historically sold well, and which
